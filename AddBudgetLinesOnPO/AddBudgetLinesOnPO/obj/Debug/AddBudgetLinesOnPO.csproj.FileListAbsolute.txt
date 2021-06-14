@@ -1,0 +1,9 @@
+C:\Program Files\Acumatica ERP\HSN\App_Data\Projects\AddBudgetLinesOnPO\AddBudgetLinesOnPO\obj\Debug\AddBudgetLinesOnPO.csprojAssemblyReference.cache
+C:\Program Files\Acumatica ERP\HSN\App_Data\Projects\AddBudgetLinesOnPO\AddBudgetLinesOnPO\obj\Debug\AddBudgetLinesOnPO.csproj.CoreCompileInputs.cache
+C:\Program Files\Acumatica ERP\HSN\App_Data\Projects\AddBudgetLinesOnPO\AddBudgetLinesOnPO\bin\Debug\AddBudgetLinesOnPO.dll
+C:\Program Files\Acumatica ERP\HSN\App_Data\Projects\AddBudgetLinesOnPO\AddBudgetLinesOnPO\bin\Debug\AddBudgetLinesOnPO.pdb
+C:\Program Files\Acumatica ERP\HSN\App_Data\Projects\AddBudgetLinesOnPO\AddBudgetLinesOnPO\bin\Debug\PX.CS.Contracts.dll
+C:\Program Files\Acumatica ERP\HSN\App_Data\Projects\AddBudgetLinesOnPO\AddBudgetLinesOnPO\bin\Debug\PX.CS.Contracts.pdb
+C:\Program Files\Acumatica ERP\HSN\App_Data\Projects\AddBudgetLinesOnPO\AddBudgetLinesOnPO\obj\Debug\AddBudgetLinesOnPO.csproj.CopyComplete
+C:\Program Files\Acumatica ERP\HSN\App_Data\Projects\AddBudgetLinesOnPO\AddBudgetLinesOnPO\obj\Debug\AddBudgetLinesOnPO.dll
+C:\Program Files\Acumatica ERP\HSN\App_Data\Projects\AddBudgetLinesOnPO\AddBudgetLinesOnPO\obj\Debug\AddBudgetLinesOnPO.pdb
